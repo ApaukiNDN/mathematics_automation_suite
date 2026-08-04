@@ -10,7 +10,7 @@ A parsing and compilation script that transforms raw mathematical text and algeb
 ⚬	Automated Typesetting: Generates standardized, highly readable answer keys with clean reproducible visual hierarchies.
 ⚬	Advanced Formatting: Capable of handling complex 3D geometry documentation, from completing the square for quadric surfaces to mapping spherical coordinates.
 ⚬	Efficiency: Eliminates the manual friction of coding LaTeX syntax line-by-line, compiling clean .pdf outputs directly from the terminal.
-2. Socrates Scaffolding Script (socrates_scaffold.py)
+2. Socrates Scaffolding Script (generate_scaffold.py)
 A data-structuring tool that takes the output from the LaTeX generator and scaffolds it into digestible modules optimized for AI-assisted study sessions.
 ⚬	Active Recall Testing: Automates the creation of practice modules utilizing the Socratic method.
 ⚬	Adaptive Tutoring Utility: Perfect for generating targeted, dynamically adjusted practice quizzes to fit a specific student's homework assignments or learning style.
