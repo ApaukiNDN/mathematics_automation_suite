@@ -1,9 +1,9 @@
 # mathematics_automation_suite
 A robust collection of Python workflows engineered to automate the typesetting of complex mathematical solutions into production-ready LaTeX, and to scaffold those solutions into interactive, AI-ready learning environments.
-📖 Overview
+📖 Overview:
 Mastering advanced mathematics—from multivariable calculus to linear algebra—requires both rigorous spatial reasoning and highly adaptable teaching methodologies. This repository bridges the gap between raw computational problem-solving and structured active recall.
 By automating the typesetting of mathematical proofs and formatting them for seamless ingestion into modern study engines (like NotebookLM), these tools empower educators, tutors, and university students to focus entirely on mathematical logic rather than formatting overhead.
-🛠️ Core Architecture
+🛠️ Core Architecture:
 This suite is divided into two primary automation pipelines:
 1. LaTeX Solutions Generator (latex_test.py)
 A parsing and compilation script that transforms raw mathematical text and algebraic steps into beautifully typeset pdfTeX documents.
