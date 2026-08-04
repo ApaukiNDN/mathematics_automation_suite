@@ -5,7 +5,7 @@ Mastering advanced mathematics—from multivariable calculus to linear algebra�
 By automating the typesetting of mathematical proofs and formatting them for seamless ingestion into modern study engines (like NotebookLM), these tools empower educators, tutors, and university students to focus entirely on mathematical logic rather than formatting overhead.
 🛠️ Core Architecture
 This suite is divided into two primary automation pipelines:
-1. LaTeX Solutions Generator (latex_solutions.py)
+1. LaTeX Solutions Generator (latex_test.py)
 A parsing and compilation script that transforms raw mathematical text and algebraic steps into beautifully typeset pdfTeX documents.
 ⚬	Automated Typesetting: Generates standardized, highly readable answer keys with clean reproducible visual hierarchies.
 ⚬	Advanced Formatting: Capable of handling complex 3D geometry documentation, from completing the square for quadric surfaces to mapping spherical coordinates.
