@@ -22,14 +22,14 @@ Installation
   git clone https://github.com/ApaukiNDN/mathematics_automation_suite.git
 cd mathematics_automation_suite
 
-  2.) Install Python Dependencies
+  2.) Install Python Dependencies:
 pip3 install python-dotenv google-genai
 
   3.)Secure API Credentials:
 Create a local .env file in the project root to securely store your API key. This is ignored by Git via .gitignore.
   echo 'GEMINI_API_KEY="your_api_key_here"' > .env
 
-  4.) Usage
+  4.) Usage:
 This suite is designed to be run as a background process via a macOS Quick Action.
 	a.	Create a Quick Action in Apple Shortcuts configured to receive files (PDFs).
 	b.	Set the shell script to pass the file path to the Python environment:
